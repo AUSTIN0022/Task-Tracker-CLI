@@ -2,7 +2,7 @@
 
 A simple command-line interface (CLI) application to manage and track tasks using a JSON file as a storage backend.
 
-URL: https://github.com/AUSTIN0022/Task-Tracker-CLI/blob/main/task-cli.js
+Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker) challenge from [roadmap.sh](https://roadmap.sh/)
 
 ## Features
 - Add new tasks
