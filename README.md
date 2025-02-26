@@ -57,7 +57,7 @@ node task-cli.js list
 
 ### Listing Tasks by Status
 ```sh
-node task-cli.js list done
+node task-cli.js list
 node task-cli.js list todo
 node task-cli.js list in-progress
 ```
